@@ -7,7 +7,7 @@ CREATE TABLE users(
 );
 
 INSERT INTO users (name, email) VALUES 
-('José', 'jose@gmail.com'),
+('Jose', 'jose@gmail.com'),
 ('Maria', 'maria@gmail.com');
 
 select * from users;
